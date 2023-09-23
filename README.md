@@ -2,7 +2,7 @@
 
 ![Home Page](https://cdn1.gnarususercontent.com.br/1/1355305/45c08c71-790c-45ef-8270-92dc60b1b2a6.png)  
 
-![Mobile](https://cdn1.gnarususercontent.com.br/1/1355305/300f1fb7-b03b-49af-98bc-68004080919d.png)  ![Paginas](https://cdn1.gnarususercontent.com.br/1/1355305/4a93fb99-f212-494d-a349-d574fe185d6f.png)  
+![Mobile](https://cdn1.gnarususercontent.com.br/1/1355305/300f1fb7-b03b-49af-98bc-68004080919d.png)
 
 ## Ferramentas utilizadas:
 

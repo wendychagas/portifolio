@@ -1,5 +1,7 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portifólio.
 
+![Home Page](https://cdn1.gnarususercontent.com.br/1/1355305/45c08c71-790c-45ef-8270-92dc60b1b2a6.png)  
+
 ## Ferramentas utilizadas:
 
 * HTML

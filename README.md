@@ -1,6 +1,6 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+![image]([portifolio/index.html](https://github.com/wendychagas/portifolio/blob/5860c3e9d25c74ee89fc566e1d85d0115b7760d8/portifolio/index.html))
 
 ## Ferramentas utilizadas:
 
